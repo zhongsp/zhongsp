@@ -1,16 +1,15 @@
-### Hi there 👋
+### 我写的书
 
-<!--
-**zhongsp/zhongsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center" width="150px"><img src="img/ts-book.png" width="150px;" alt=""/><br /><sub><b>《TypeScript入门与实战》</b></sub></td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+### 我的 wx 订阅号
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" width="150px"><img src="img/wx.jpg" width="150px;" alt=""/><br /><sub><b>软件工匠之路</b></sub></td>
+  </tr>
+</table>
